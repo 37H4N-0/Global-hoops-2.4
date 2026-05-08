@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
 :root {
@@ -71,3 +72,4 @@ body { margin: 0; background-color: var(--white); color: var(--black); font-fami
 .modal-layout { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 60px; max-width: 1200px; margin: 0 auto; }
 .compare-grid-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--border); }
 .compare-col { background: var(--white); padding: 40px; text-align: center; }
+<script src="script.js"></script>
